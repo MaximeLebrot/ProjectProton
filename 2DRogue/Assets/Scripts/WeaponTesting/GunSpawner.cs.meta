@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c1ab78fba075bf2488beeb219577c6be
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - riflePrefab: {instanceID: 0}
+  - sniperPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
